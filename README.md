@@ -2,7 +2,7 @@
 - 
 - 👀 I’m interested in building software that is fun to use, runs really well, and does really gnarly stuff for folks!
 - 
-- 🌱 I’m currently learning graphics programming and engine architecture.
+- 🌱 I’m currently learning game engine architecture and pixel art.
 - 
 - 📫 How to reach me: You can just shoot me a message on here if you'd like to talk!
 
